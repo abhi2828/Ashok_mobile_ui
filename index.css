@@ -204,14 +204,17 @@ ul.OurServices li:nth-child(even) {
 .facebook-bg{
   background: #3B5998;
   color: white;
+  border: 1px solid;
 }
 .twitter-bg{
   background: #55ACEE;
   color: white;
+  border: 1px solid;
 }
 .google-bg{
   background: #DD4B39;
   color: white;
+  border: 1px solid;
 }
 .icons_social{
   display: flex;
