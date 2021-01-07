@@ -90,10 +90,25 @@ body {
   .carousel-indicators .active{
       margin-top: 1px;
   }
-  .notification {
-    width: 30%;
-}
+  .headingh4{
+    margin:4px auto;
+  }
+  /* our packages */
 
+  .packages{
+    display: flex;
+    justify-content: space-around;
+  }
+  .packages img{
+    width: 150px;
+    border-radius: 10px;
+  }
+  .img_row{
+    margin-bottom: 15px !important;
+  }
+  .viewMore{
+    font-size: 15px;
+  }
 footer {
     position: fixed;
     left: 0;
