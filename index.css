@@ -153,13 +153,14 @@ footer {
 }
 .footer_services_heading h4{
   color: white;
+  margin-bottom: 15px;
 }
 ul.OurServices{
   padding-left: 6px !important;
 }
 ul.OurServices li{
   list-style: none;
-  font-size: 15px;
+  font-size: 13px;
 }
 ul.OurServices li a{
   text-decoration: none;
@@ -185,10 +186,10 @@ ul.OurServices li:nth-child(even) {
   font-size: 13px;
   text-align: center;
 }
-.subscribe_form form{
+/*.subscribe_form form{
   padding-left: 50px;
 }
-.subscribe_form form input{
+ .subscribe_form form input{
   height: 40px;
   width: 66%;
   font-size: 15px;
@@ -207,7 +208,7 @@ ul.OurServices li:nth-child(even) {
   border-bottom-right-radius: 6px;
   border-top-right-radius: 6px;
   background: #BEE10F;
-}
+} */
 .facebook-bg{
   background: #3B5998;
   color: white;
