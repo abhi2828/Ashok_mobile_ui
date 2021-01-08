@@ -60,6 +60,7 @@ body {
   }
   #navbar .header_menu1 a p{
     color: #616262;
+    font-size: 13px;
   }
   /* #navbar .header_menu1 a.active {
     background-color: #4CAF50;
