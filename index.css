@@ -108,7 +108,12 @@ body {
     margin-bottom: 15px !important;
   }
   .viewMore{
-    font-size: 15px;
+    font-size: 25px;
+    text-align: center;
+    text-transform: lowercase !important;
+  }
+  .viewMore a{
+    text-transform: lowercase !important;
   }
 footer {
     position: fixed;
